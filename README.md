@@ -1,5 +1,5 @@
 # 💫Hi There, Nice to see you here
-🔭 I’m currently working on FrontEnd Dev, Core Coding<br>👯 I’m looking to collaborate on FrontEnd Web Projects<br>🤝 I’m looking for help with ReactJS<br>🌱 I’m currently learning ReactJS, Google Cloud<br>💬 Ask me about C++,Cloud Computing, Web3, DevOps<br>⚡ Fun fact: I hate CSS
+🔭 I’m a Fresher Full-Stack Developer<br><br>🌱 I’m currently learning Langchain<br>💬 Ask me about C++,Cloud Computing, Web3, DevOps<br>⚡ Fun fact: I hate CSS
 
 
 ## 🌐 Socials:
